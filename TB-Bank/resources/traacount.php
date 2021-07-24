@@ -91,7 +91,7 @@ if(isset($_POST['submit']))
         </div>
         <nav id="navbar" class="navbar">
             <ul>
-            <li><a class="nav-link " href="index.html">Home</a></li>
+            <li><a class="nav-link " href="index.php">Home</a></li>
             <li><a class="nav-link" href="transact.php">Transact</a></li>
             <li><a class="nav-link " href="transactionlog.php">Transaction-log</a></li>
             <li><a class="nav-link " href="accounts.php">Accounts</a></li>    
